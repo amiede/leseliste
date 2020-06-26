@@ -1,13 +1,13 @@
-## Leseliste (André Miede, Stand 06/2020)
+## Leseliste 
+### André Miede, Stand 06/2020
 
 Literatur ist nicht nur bloße Theorie, sondern hilft auch dabei, von den Erfahrungen anderer Menschen zu profitieren, Neues zu entdecken oder einfach nur zu entspannen. Hier finden Sie einige Inspirationen für Ihr Studium und den “Blick über den Tellerrand”. Die Reihenfolge der Gruppen und Werke stellt hierbei keine Wertung dar.
 
 Wer (scheinbar) nur sehr wenig Zeit hat: Meine Top $n+1$ sind __fett markiert__, wobei dies eine sehr schwierige Auswahl ist.
 
-Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de``
+Bei Rückfragen, Anmerkungen, Ergänzungen und Kritik gerne melden.
 
 ### Informatik/Entwicklung/Technologie
-
 *   Donald E. Knuth: Literate Programming
 *   Donald E. Knuth: The Art of Computer Programming (Serie)
 *   Robert C. Martin: Clean Code
@@ -23,7 +23,6 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 
 
 ### Methodik
-
 *   David Allen: Getting Things Done – The Art of Stress-Free Productivity
 *   Stephen R. Covey: The 7 Habits of Highly Effective People – Powerful Lessons in Personal Change
 *   Darrel Huff: How to Lie with Statistics
@@ -38,14 +37,12 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 *	Cal Newport: Deep Work – Rules for Focused Success in a Distracted World
 *   Jocko Willink: Discipline Equals Freedom – Field Manual
 *   James Clear: Atomic Habits – An Easy and Proven Way to Build Good Habits and Break Bad Ones
-*   Carmen Simon: Impossible to Ignore
 *   Carlo M. Cipolla: The Basic Laws of Human Stupidity
 * 	Jocko Willink; Dave Berke; Sarah Armstrong: The Code. The Evaluation. The Protocols – Striving to Become an Eminently Qualified Human
-
+* 	Peter Bevelin: Seeking Wisdom – From Darwin to Munger (especially the chapter on "Prescriptions for Guaranteed Misery in Life")
 
 
 ### Projekte/Management/"Karriere"
-
 *   Frederick P. Brooks, Jr.: The Mythical Man-Month
 *   Tom DeMarco: The Deadline (A Novel about Project Management)
 *   Tom DeMarco; Timothy Lister: Peopleware – Productive Projects and Teams
@@ -59,13 +56,12 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 *   Wolfgang Schur; Günter Weick: Wahnsinnskarriere
 *   Kerry Patterson; Joseph Grenny; Ron McMillan; Al Switzler: Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior
 *   Jocko Willink; Leif Babin: Extreme Ownership – How U.S. Navy SEALs Lead and Win
-*   Matthias Schranner: Das Schranner-Konzept – Die neuen Prinzipien für die Verhandlungen der Zukunft
-*   Chris Voss: Never Split the Difference
 *   Jocko Willink: Leadership Strategy and Tactics – Field Manual
+* 	Robert Greene: Power
+*   Scott Adams: Loserthink – How Untrained Brains Are Ruining (America, the World)
 
 
 ### Ethik/Strategie/Philosophie
-
 *   Donald E. Knuth: Things a Computer Scientist Rarely Talks About
 *   Thomas Cleary; Taira Shigesuke: Code of the Samurai (Bushidô Shoshinshu)
 *   Niccolò Machiavelli: The Prince (Il Principe)
@@ -81,17 +77,15 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 *   Nicolas Werth: Cannibal Island – Death in a Siberian Gulag
 * 	__Viktor E. Frankl: Man's Search for Meaning__
 *   Jordan B. Peterson: 12 Rules for Life – An Antidote to Chaos
-*   Dino Buzzati: Die Tatarenwüste
 *   __Nassim Nicholas Taleb: Antifragile – Things That Gain from Disorder__
 * 	Nassim Nicholas Taleb: Skin in the Game – Hidden Asymmetries in Daily Life
+*   Nassim Nicholas Taleb: The Bed of Procrustes – Philosophical and Practical Aphorisms
 *	Primo Levi: Die Untergegangenen und die Geretteten
 *	Primo Levi: Ist das ein Mensch?
 * 	Christopher Browning: Ordinary Men – Reserve Police Battalion 11 and the Final Solution in Poland (dt. Ganz normale Männer – Das Reserve-Polizeibataillon 101 und die "Endlösung" in Polen)
 
 
-
 ### Wirtschaft
-
 *   Steven D. Levitt; Stephen J. Dubner: Freakonomics – A Rogue Economist Explores the Hidden Side of Everything
 *   Steven D. Levitt; Stephen J. Dubner: Superfreakonomics
 *   Nassim Nicholas Taleb: The Black Swan – The Impact of the Highly Improbable
@@ -101,17 +95,9 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 *   Gunter Dueck: Professionelle Intelligenz – Worauf es morgen ankommt
 *   Geraint Anderson: Cityboy – Beer and Loathing in the Square Mile
 *   John Rolfe; Peter Troob: Monkey Business
-* 	Roger Fisher; William Ury: Getting to Yes – Negotiating an Agreement without Giving In
-*	William Ury: Getting Past No – Negotiating in Difficult Situations
-*	Donald J. Trump;‎ Tony Schwartz: Trump – The Art of the Deal
-* 	Peter Thiel; Blake Masters: Zero to One – Notes on Start Ups, or How to Build the Future
-* 	Peter Bevelin: Seeking Wisdom – From Darwin to Munger (especially the chapter on "Prescriptions for Guaranteed Misery in Life")
-* 	Peter D. Kaufman; Charles T. Munger; Warren E. Buffett: Poor Charlie's Almanack – The Wit and Wisdom of Charles T. Munger (especially the chapter on "The Psychology of Human Misjudgment")
-
 
 
 ### Sicherheit/Datenschutz/Politik
-
 *   Ross J. Anderson: Security Engineering – A Guide to Building Dependable Distributed Systems
 *   Bruce Schneier: Beyond Fear – Thinking Sensibly about Security in an Uncertain World
 *   Bruce Schneier: Secrets and Lies – Digital Security in a Networked World
@@ -119,28 +105,20 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 *   Bruce Schneier: Data and Goliath – The Hidden Battles to Collect Your Data and Control Your World
 *   Glenn Greenwald: No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State
 *   Glenn Greenwald: With Liberty and Justice for Some: How the Law Is Used to Destroy Equality and Protect the Powerful
-*   Andreas Eschbach: Ein König für Deutschland
-*   Marc Elsberg: BLACKOUT
-*   Kurt Vonnegut: Slaughterhouse-Five
-*   George Orwell: Animal Farm
-*   __George Orwell: 1984__
 *   Edward Snowden: Permanent Record
 
 
 ### Spaß
-
 *   Scott Adams: Dilbert – The Joy of Work
 *   Scott Adams: The Dilbert Future
 *   Scott Adams: The Dilbert Principle
 *   Scott Adams: The Way of the Weasel
-*   Douglas Adams: The Hitchhiker's Guide to the Galaxy
 *   Florian Schiel: Bastard Assistant from Hell (Serie)
 *   Sterling Johnson: English as a Second F‡cking Language
 *   Titania McGrath: Woke – A Guide to Social Justice
 
 
 ### Allgemeines/Vermischtes
-
 *   Robert Bringhurst: The Elements of Typographic Style
 *   Richard P. Feynman: “Surely You’re Joking, Mr. Feynman!” (Adventures of a Curious Character)
 *   Robert McKee: Story: Substance, Structure, Style and the Principles of Screenwriting
@@ -156,22 +134,45 @@ Rückfragen, Anmerkungen, Ergänungen und Kritik gerne: ``andre.miede@htwsaar.de
 *   Randall Munroe: What If? Serious Scientific Answers to Absurd Hypothetical Questions
 *   Arthur De Vany: The De Vany Diet
 *   Jane McGonigal: Reality is Broken – Why Games Make Us Better and How They Can Change the World
-*   Nassim Nicholas Taleb: The Bed of Procrustes – Philosophical and Practical Aphorisms
-* 	Dale Carnegie: How To Win Friends And Influence People
 * 	Stephen Hawking: A Brief History Of Time – From Big Bang To Black Holes
 * 	Scott Adams: How to Fail at Almost Everything and Still Win Big – Kind of the Story of My Life
 * 	Arnold Schwarzenegger: Total Recall – My Unbelievably True Life Story
 * 	Joshua Foer: Moonwalking with Einstein – The Art and Science of Remembering Everything
 * 	Yuval Noah Harari: Sapiens – A Brief History of Humankind
-* 	Robert B. Cialdini: Influence – The Psychology of Persuasion
-* 	Robert B. Cialdini: Pre-Suasion – A Revolutionary Way to Influence and Persuade
+* 	Neil Strauss: The Game – Penetrating the Secret Society of Pickup Artists
 * 	Tim Ferriss: Tools of Titans – The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers
 * 	Robert Greene: Mastery
-* 	Robert Greene: Power
 *   Baltasar Gracián: The Art of Worldly Wisdom
 *   Jocko Willink: Way of the Warrior Kid
 *   Matthew Walker: Why We Sleep – The New Science of Sleep and Dreams
-*   Scott Adams: Win Bigly – Persuasion in a World Where Facts Don't Matter
-*   Scott Adams: Loserthink – How Untrained Brains Are Ruining (America, the World)
 *	Andrew Roberts: Churchill – Walking with Destiny
 
+
+### Verhandlungen/Persuasion
+* 	Robert B. Cialdini: Influence – The Psychology of Persuasion
+* 	Robert B. Cialdini: Pre-Suasion – A Revolutionary Way to Influence and Persuade
+*	Daniel Kahneman: Thinking Fast and Slow
+*	Anthony Robbins: Unlimited Power – The New Science of Personal Achievement
+* 	Gustave Le Bon: Psychologie der Massen
+*   Scott Adams: Win Bigly – Persuasion in a World Where Facts Don't Matter
+*   Carmen Simon: Impossible to Ignore
+* 	Roger Fisher; William Ury: Getting to Yes – Negotiating an Agreement without Giving In
+*	William Ury: Getting Past No – Negotiating in Difficult Situations
+*	Donald J. Trump;‎ Tony Schwartz: Trump – The Art of the Deal
+*   Matthias Schranner: Das Schranner-Konzept – Die neuen Prinzipien für die Verhandlungen der Zukunft
+*   Chris Voss: Never Split the Difference
+* 	Peter Thiel; Blake Masters: Zero to One – Notes on Start Ups, or How to Build the Future
+* 	Peter D. Kaufman; Charles T. Munger; Warren E. Buffett: Poor Charlie's Almanack – The Wit and Wisdom of Charles T. Munger (especially the chapter on "The Psychology of Human Misjudgment")
+* 	Dale Carnegie: How To Win Friends And Influence People
+
+
+### Romane
+* 	Cixin Liu: The Three-Body Problem (Serie)
+*	Stephen King: The Dark Tower (Serie)
+*   Douglas Adams: The Hitchhiker's Guide to the Galaxy
+*   Andreas Eschbach: Ein König für Deutschland
+*   Marc Elsberg: BLACKOUT
+*   Kurt Vonnegut: Slaughterhouse-Five
+*   George Orwell: Animal Farm
+*   __George Orwell: 1984__
+*   Dino Buzzati: Die Tatarenwüste
