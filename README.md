@@ -95,6 +95,7 @@ Bei Rückfragen, Anmerkungen, Ergänzungen und Kritik gerne melden.
 *   Gunter Dueck: Professionelle Intelligenz – Worauf es morgen ankommt
 *   Geraint Anderson: Cityboy – Beer and Loathing in the Square Mile
 *   John Rolfe; Peter Troob: Monkey Business
+* 	Peter Thiel; Blake Masters: Zero to One – Notes on Start Ups, or How to Build the Future
 
 
 ### Sicherheit/Datenschutz/Politik
@@ -161,7 +162,6 @@ Bei Rückfragen, Anmerkungen, Ergänzungen und Kritik gerne melden.
 *	Donald J. Trump;‎ Tony Schwartz: Trump – The Art of the Deal
 *   Matthias Schranner: Das Schranner-Konzept – Die neuen Prinzipien für die Verhandlungen der Zukunft
 *   Chris Voss: Never Split the Difference
-* 	Peter Thiel; Blake Masters: Zero to One – Notes on Start Ups, or How to Build the Future
 * 	Peter D. Kaufman; Charles T. Munger; Warren E. Buffett: Poor Charlie's Almanack – The Wit and Wisdom of Charles T. Munger (especially the chapter on "The Psychology of Human Misjudgment")
 * 	Dale Carnegie: How To Win Friends And Influence People
 
