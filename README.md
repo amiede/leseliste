@@ -71,18 +71,18 @@ Bei Rückfragen, Anmerkungen, Ergänzungen und Kritik gerne melden.
 *   Martin Cohen et al.: 99 moralische Zwickmühlen – Eine unterhaltsame Einführung in die Philosophie des richtigen Handelns
 *   Seneca: Letters from a Stoic – Epistulae Morales Ad Lucilium
 *	__Seneca: Von der Kürze des Lebens / On the Shortness of Life__
-* 	__Marcus Aurelius: Meditations (dt. Marc Aurel: Selbstbetrachtungen / Wege zu sich selbst)__
+* 	__Marcus Aurelius: Meditations (Marc Aurel: Selbstbetrachtungen / Wege zu sich selbst)__
 *   Alexander Solschenizyn: Der Archipel Gulag
 *   Alexander Solschenizyn: Ein Tag im Leben des Iwan Denissowitsch
 *   Nicolas Werth: Cannibal Island – Death in a Siberian Gulag
-* 	__Viktor E. Frankl: Man's Search for Meaning__
+* 	__Viktor E. Frankl: Man's Search for Meaning (...trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager __
 *   Jordan B. Peterson: 12 Rules for Life – An Antidote to Chaos
 *   __Nassim Nicholas Taleb: Antifragile – Things That Gain from Disorder__
 * 	Nassim Nicholas Taleb: Skin in the Game – Hidden Asymmetries in Daily Life
 *   Nassim Nicholas Taleb: The Bed of Procrustes – Philosophical and Practical Aphorisms
 *	Primo Levi: Die Untergegangenen und die Geretteten
 *	Primo Levi: Ist das ein Mensch?
-* 	Christopher Browning: Ordinary Men – Reserve Police Battalion 11 and the Final Solution in Poland (dt. Ganz normale Männer – Das Reserve-Polizeibataillon 101 und die "Endlösung" in Polen)
+* 	Christopher Browning: Ordinary Men – Reserve Police Battalion 11 and the Final Solution in Poland (Ganz normale Männer – Das Reserve-Polizeibataillon 101 und die "Endlösung" in Polen)
 
 
 ### Wirtschaft
@@ -147,6 +147,7 @@ Bei Rückfragen, Anmerkungen, Ergänzungen und Kritik gerne melden.
 *   Jocko Willink: Way of the Warrior Kid
 *   Matthew Walker: Why We Sleep – The New Science of Sleep and Dreams
 *	Andrew Roberts: Churchill – Walking with Destiny
+*	Steven Pressfield: The War of Art – Break Through the Blocks and Win Your Inner Creative Battles
 
 
 ### Verhandlungen/Persuasion
